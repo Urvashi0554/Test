@@ -1,0 +1,36 @@
+Git push repo
+
+
+---First time repo commit
+
+git init
+
+
+git add .
+
+
+git branch -M main
+
+
+git remote add origin https://github.com/Urvashi0554/Test.git    ///will vary
+
+
+git commit -m "first commit"
+
+
+git push -u origin main
+
+
+
+
+---ANy update in repo commit
+
+
+git add .
+
+git commit -m "your comment on update"
+
+
+git push
+
+
